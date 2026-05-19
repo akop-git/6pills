@@ -1,0 +1,8 @@
+{
+  "appId": "com.rohith.sixpills",
+  "appName": "6pills",
+  "webDir": "dist",
+  "android": {
+    "allowMixedContent": false
+  }
+}
